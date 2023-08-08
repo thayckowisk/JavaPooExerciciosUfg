@@ -1,0 +1,4 @@
+copiar e colar na pasta githubpoo
+da git add .
+git commit -m 
+git push pra subir a pasta
